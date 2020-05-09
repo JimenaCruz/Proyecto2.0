@@ -19,6 +19,15 @@
 	border: 0px solid #000;
 	float: left; font-family: sans-serif;
     }
+	.titulo{
+	margin-top: 25px;
+	font-size: 30px;
+}
+
+.sub-titulo{
+	font-size: 14px;
+	margin-top: -20px;
+}
 
 	.menu{
 	width: 470px;
@@ -90,4 +99,21 @@
 	height: auto; overflow: hidden;
 	border: 0px solid #c0c0c0;
 	margin-top: 10px; color: 
+}
+#izq{
+	width: 585px;
+	height: auto; overflow: hidden;
+	border: 1px solid #ccc;
+	float: left;
+	padding: 5px; color: #4682b4;
+}
+#der{
+	width: 290px;
+	height: 300px;
+	border: 1px solid #ccc;
+	float: right;
+	color: 
+}
+#footer p{
+	width: 500px;
 }
