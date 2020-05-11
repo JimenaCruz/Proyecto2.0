@@ -98,7 +98,7 @@
 	width: 900px;
 	height: auto; overflow: hidden;
 	border: 0px solid #c0c0c0;
-	margin-top: 10px; color: 
+	margin-top: 10px; color:cyan; 
 }
 #izq{
 	width: 585px;
@@ -112,7 +112,7 @@
 	height: 300px;
 	border: 1px solid #ccc;
 	float: right;
-	color: 
+	color: aqua; 
 }
 #footer p{
 	width: 500px;
